@@ -1,0 +1,37 @@
+# Site settings
+title: 'GEM: Graph Embedding and Mining'
+description: 'ECML-PKDD 2019 Workshop'
+url: 'http://users.ugent.be/~bkang/gem'
+baseurl: '/~bkang/gem'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Bo Kang'
+  email: gem.ecmlpkdd@gmail.com
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
