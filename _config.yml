@@ -1,8 +1,8 @@
 # Site settings
 title: 'GEM: Graph Embedding and Mining'
 description: 'ECML-PKDD 2019 Workshop'
-url: 'http://users.ugent.be/~bkang/gem'
-baseurl: '/~bkang/gem'
+url: 'http://gem-ecmlpkdd.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
