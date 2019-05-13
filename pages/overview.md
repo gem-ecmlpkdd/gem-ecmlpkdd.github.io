@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Overview
 permalink: /overview/
 ---
-
-## Overview
 ---
 Networks of various types, such as property graphs, linked data / semantic web / RDF data, attributed graphs, and more, are increasingly used in practice as versatile and efficient models for data as encountered in today’s data-intensive research and industries. They allow capturing not only the information about entities (using attributes or properties), but also the relational structure between them. This adds significant additional flexibility as compared to data that is formalized as a set of unrelated data points -- a data format that was dominant in the machine learning literature until quite recently.
 

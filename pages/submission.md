@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Submission
 permalink: /submission/
 ---
-## Submission
 ---
 All papers will be peer reviewed, single-blinded. We welcome many kinds of papers, such as (and not limited to):
 - Novel research papers
