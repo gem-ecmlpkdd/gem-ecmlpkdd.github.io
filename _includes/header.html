@@ -9,7 +9,7 @@
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
         <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
-          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+          <h1 class="panel-cover__title">{{ site.title }}</h1>
         </a>
         <hr class="panel-cover__divider">
         <p class="panel-cover__description">{{ site.description }}</p>
@@ -20,48 +20,16 @@
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/overview" title="{{ site.title }} Overview" class="blog-button">Overview</a></li>
-            </ul>
-          </nav>
-          <nav class="cover-navigation cover-navigation--primary">
-            <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/keynotes" title="{{ site.title }} Keynotes" class="blog-button">Keynotes</a></li>
-            </ul>
-          </nav>
-          <nav class="cover-navigation cover-navigation--primary">
-            <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/program" title="{{ site.title }} Program" class="blog-button">Program</a></li>
-            </ul>
-          </nav>
-          <nav class="cover-navigation cover-navigation--primary">
-            <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/submission" title="{{ site.title }} Submission" class="blog-button">Submission</a></li>
-            </ul>
-          </nav>
-          <br>
-          <nav class="cover-navigation cover-navigation--primary">
-            <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/committee" title="{{ site.title }} Committee" class="blog-button">Committee</a></li>
-            </ul>
-          </nav>
-          <nav class="cover-navigation cover-navigation--primary">
-            <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/organizers" title="{{ site.title }} Organizers" class="blog-button">Organizers</a></li>
-            </ul>
-          </nav>
-
-          <nav class="cover-navigation navigation--social">
-            <ul class="navigation">
-
-            {% if site.author.email %}
-              <!-- Email -->
               <li class="navigation__item">
                 <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
                   <i class="icon icon-mail"></i>
-                  <span class="label">Email</span>
                 </a>
               </li>
-            {% endif %}
-
             </ul>
           </nav>
 
