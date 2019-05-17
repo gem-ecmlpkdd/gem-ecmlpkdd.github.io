@@ -1,0 +1,10 @@
+speakers:
+  Guennemann:
+    id: 1
+    name: Stephan Günnemann
+    institution: Technical University of Munich
+    image: StephanGuennemann.jpg
+    homepage: http://www.kdd.in.tum.de/team/guennemann/
+    bio: Stephan Günnemann is a Professor at the Department of Informatics, Technical University of Munich. He acquired his doctoral degree in 2012 at RWTH Aachen University in the field of computer science. From 2012 to 2015 he was an associate of Carnegie Mellon University, USA; initially as a postdoctoral fellow and later as a senior researcher. Stephan Günnemann has been a visiting researcher at Simon Fraser University, Canada, and a research scientist at the Research & Technology Center of Siemens AG. In line with the proposed workshop, his main research interests include the development of robust and scalable machine learning and data mining techniques for graphs and network data. Specifically, he has contributed to principles for community detection in graphs, graph embeddings, and graph neural networks. His works on subspace clustering on graphs as well as his analysis of adversarial robustness of graph neural networks have received the best research paper awards at ECML-PKDD 2011 and KDD 2018. His experience in co-chairing scientific events ranges from organizing workshops (e.g. ECML-PKDD 2011), tutorials (e.g. ICML 2013), and conferences (e.g. VLDB 2017).
+    talktitle: Talk title to be added
+    talk: TBA

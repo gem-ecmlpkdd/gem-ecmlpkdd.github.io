@@ -3,6 +3,7 @@
 @import "uno";
 @import "tables";
 @import "monokai";
+@import "bootstrap";
 
 /* Modifications */
 
@@ -56,4 +57,29 @@ pre.highlight code,
   height: 100px;
   border: 3px solid #fff;
   border-radius:100%;
+}
+
+// Colors
+$color-red: #B2243B;
+$color-black: #1C110A;
+$color-beige: #FDFBE2;
+// Breakpoints
+$break-mobile: 1000px;
+$break-desktop: 1200px;
+// box-shadow
+$shadow: 0 4px 3px -3px darken($gray-lighter, 50%);
+
+.keynote-container {
+  background-color: $gray-lighter;
+  box-shadow: $shadow;
+  padding: 10px;
+  margin: 10px;
+
+  a{
+    color: $color-red;
+  }
+}
+
+.round-corners {
+  border-radius: 0px 15px;
 }
