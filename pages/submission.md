@@ -18,7 +18,7 @@ Accepted papers will be presented as a poster in the poster session and a few wi
 
 For accepted papers, at least one author must register for the conference and attend the workshop to present the work.
 
-Please submit via [EasyChair](https://easychair.org/my/conference?conf=gem2019).
+Please submit via [EasyChair](https://easychair.org/conferences/?conf=gem2019).
 
 **Important Dates**
 - Submission: June 14, 2019

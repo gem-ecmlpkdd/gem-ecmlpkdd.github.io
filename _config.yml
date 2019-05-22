@@ -3,7 +3,7 @@ title: 'GEM: Graph Embedding and Mining'
 description: 'ECML-PKDD 2019 Workshop'
 url: 'http://gem-ecmlpkdd.github.io'
 baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-140686722-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
