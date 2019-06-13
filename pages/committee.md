@@ -5,7 +5,7 @@ permalink: /committee/
 ---
 ---
 * Aleksandar Bojchevski (Technical University of Munich, Germany)
-* Amedeo Napoli (LORIA, France)
+* Amedeo Napoli (LORIA Nancy, France)
 * Anes Bendimerad (INSA Lyon, France)
 * Anton Tsitsulin (University of Bonn, Germany)
 * Baptiste Jeudy (Université de Saint-Étienne, France)
