@@ -21,7 +21,7 @@ For accepted papers, at least one author must register for the conference and at
 Please submit via [EasyChair](https://easychair.org/conferences/?conf=gem2019).
 
 **Important Dates**
-- Submission: ~~June 14, 2019~~ June 21, 2019
+- Submission: ~~June 14, 2019~~ June 21, 2019 (GMT)
 - Notification: July 12, 2019
 - Camera-ready: July 26, 2019
 - Workshop date: September 16, 2019
