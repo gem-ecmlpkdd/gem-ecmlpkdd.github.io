@@ -13,6 +13,7 @@ permalink: /committee/
 * Cigdem Aslay (Aalto University, Finland)
 * Darío García García (Facebook AI, USA)
 * Di Jin (University of Michigan, USA)
+* Florian Adriaens (Ghent University, Belgium)
 * Jan Ramon (INRIA Lille, France)
 * Jilles Vreeken (Helmholtz Center for Information Security, Germany)
 * Kristian Kersting (Technische Universität Darmstadt, Germany)
@@ -32,4 +33,3 @@ permalink: /committee/
 * Tamás Horváth (University of Bonn, Germany)
 * Thomas Gärtner (University of Nottingham, UK)
 * Yujun Yan (University of Michigan, USA)
-* TBA
