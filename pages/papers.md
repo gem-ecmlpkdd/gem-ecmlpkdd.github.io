@@ -5,13 +5,13 @@ permalink: /papers/
 ---
 ---
 ## Oral Presentations
-* __Dual-Primal Graph Convolutional Networks__, _Federico Monti, Oleksandr Shchur, Aleksandar Bojchevski, Or Litany, Stephan Günnemann and Michael Bronstein_
 * __Summarizing Dynamic Graphs using MDL__, _Divyam Saran and Jilles Vreeken_
 * __General Generator for Attributed Graphs with Community Structure__, _Seiji Maekawa, Jianpeng Zhang, George Fletcher and Makoto Onizuka_
 * __Discovering Robustly Connected Subgraphs with Simple Descriptions__, _Janis Kalofolias, Mario Boley and Jilles Vreeken_
 * __Link Prediction via Community Detection in Bipartite Multi-Layer Graphs__, _Maksim Koptelov, Albrecht Zimmermann and Bruno Cremilleux_
 
 ## Poster Presentations
+* __Dual-Primal Graph Convolutional Networks__, _Federico Monti, Oleksandr Shchur, Aleksandar Bojchevski, Or Litany, Stephan Günnemann and Michael Bronstein_
 * __Preserving Proximity Nonnegative Matrix Factorization__, _Yuya Ogawa, Koh Takeuchi, Yuya Sasaki and Makoto Onizuka_
 * __Which way? Direction-Aware Attributed Graph Embedding__, _Zekarias Kefato, Nasrullah Sheikh and Alberto Montresor_
 * __On the Necessity of Graph Kernel Baselines__, _Till Hendrik Schulz and Pascal Welke_

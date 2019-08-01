@@ -21,7 +21,7 @@ permalink: /committee/
 * Marc Plantevit (CNRS Lyon, France)
 * Mark Heimann (University of Michigan, USA)
 * Mehwish Alam (CNR Rome, Italy)
-* Mykola Pechenizkiy (Eindhoven University of Technology, Netherland)
+* Mykola Pechenizkiy (Eindhoven University of Technology, Netherlands)
 * Nikolaj Tatti (University of Helsinki, Finland)
 * Pascal Welke (University of Bonn, Germany)
 * Polina Rozenshtein (Aalto University, Finland)
