@@ -20,6 +20,6 @@ permalink: /program/
 
 12:45 - 14:00 **Lunch Break**
 
-14:00 - 15:00 **Keynote**: [__Title__]({{site.baseurl}}/../keynotes/)
+14:00 - 15:00 **Keynote**: [__Adversarial Robustness of Machine Learning Models for Graphs__]({{site.baseurl}}/../keynotes/)
 
 15:00 - 16:15 **Posters (includes coffee break time)**
