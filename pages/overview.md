@@ -50,7 +50,4 @@ All types of approaches are welcome, e.g., graph neural networks, traditional ML
 The workshop will feature:
 - keynote speakers,
 - a few contributed talks,
-- a poster session in the afternoon, and
-- small-group discussions on hot topics that are aimed to bring together academia and industry or end-users in application areas.
-
-Keynote speakers and the program committee will be announced soon!
+- a poster session.

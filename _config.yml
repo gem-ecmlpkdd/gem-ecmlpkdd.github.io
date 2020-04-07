@@ -1,6 +1,6 @@
 # Site settings
 title: 'GEM: Graph Embedding and Mining'
-description: 'ECML-PKDD 2019 Workshop'
+description: 'ECML-PKDD 2020 Workshop'
 url: 'http://gem-ecmlpkdd.github.io'
 baseurl: ''
 google_analytics: 'UA-140686722-1'

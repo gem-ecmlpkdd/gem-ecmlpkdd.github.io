@@ -4,7 +4,7 @@ title: Submission
 permalink: /submission/
 ---
 ---
-All papers will be peer reviewed, single-blinded. We welcome many kinds of papers, such as (and not limited to):
+All papers will be peer-reviewed, single-blinded. We welcome many kinds of papers, such as (and not limited to):
 - Novel research papers
 - Demo papers
 - Work-in-progress papers
@@ -18,13 +18,13 @@ Accepted papers will be presented as a poster in the poster session and a few wi
 
 For accepted papers, at least one author must register for the conference and attend the workshop to present the work.
 
-Please submit via [EasyChair](https://easychair.org/conferences/?conf=gem2019).
+Please submit via [EasyChair](https://easychair.org/conferences/?conf=gem2020).
 
 **Important Dates**
-- Submission: ~~June 14, 2019~~ June 20, 2019 (GMT)
-- Notification: July 12, 2019
-- Camera-ready: July 26, 2019
-- Workshop date: September 16, 2019
+- Submission: June 9, 2020
+- Notification: July 9, 2020
+- Camera-ready: July 23, 2020
+- Workshop date: TBA
 
 **Contact**
 - E-mail: gem.ecmlpkdd@gmail.com
