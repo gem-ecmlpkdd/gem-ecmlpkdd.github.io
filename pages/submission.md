@@ -21,7 +21,7 @@ For accepted papers, at least one author must register for the conference and at
 Please submit via [EasyChair](https://easychair.org/conferences/?conf=gem2020).
 
 **Important Dates**
-- Submission: June 30, 2020 <span style="color:red">~~June 19, 2020~~</span> <span style="color:red">~~June 9, 2020~~</span>
+- Submission: ~~June 30, 2020~~ <span style="color:red">~~June 19, 2020~~</span> <span style="color:red">~~June 9, 2020~~</span>
 - Notification: July 24, 2020
 - Camera-ready: August 15, 2020
 - Workshop date: September 18, 2020
