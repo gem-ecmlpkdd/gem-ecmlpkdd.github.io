@@ -15,5 +15,4 @@ permalink: /papers/
 * [__An approach for generating random temporal semantic graphs with embedded patterns__]({{site.baseurl}}GEM2020_paper_1.pdf), _Aurélie Leborgne, Jorick Nuss, Florence Le Ber and Stella Marc-Zwecker_
 * [__Social Fluidity in Children's Face-to-Face Interaction Networks__]({{site.baseurl}}GEM2020_paper_2.pdf), _Daniela Gawehns and Matthijs van Leeuwen_
 * [__A comparative study of similarity-based and GNN-based link prediction approaches__]({{site.baseurl}}GEM2020_paper_5.pdf), _Md Kamrul Islam, Sabeur Aridhi and Malika Smail-Tabbone_
-* [__Multiplex Aggregation and Community Detection Using Quasi-Arithmetic Means__]({{site.baseurl}}GEM2020_paper_6.pdf), _Etienne Cuvelier and Marie-Aude Aufaure_
 * [__Trustworthiness-Aware Knowledge Graph Representation for Explainable Recommender Systems__]({{site.baseurl}}GEM2020_paper_9.pdf), _Yan Ge and Haiping Lu_
