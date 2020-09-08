@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 ---
-14:00 - 14:15 **Opening**
+14:10 - 14:15 **Opening**
 
 14:15 - 15:00 **Keynote**: [__Conditional network embedding -- trustworthy by design?__]()
 
