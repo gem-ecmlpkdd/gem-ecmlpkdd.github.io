@@ -1,10 +1,10 @@
 speakers:
   Tijl:
     id: 1
-    name: Tijl De Bie
-    institution: Ghent University
-    image: TijlDeBie.jpg
-    homepage: http://www.tijldebie.net
-    bio: "Tijl De Bie is currently Full Professor at the University of Ghent, having previously been affiliated to the KU Leuven, the University of Southampton, UC Berkeley, UC Davis, and Bristol University. He is most actively interested in the methodological foundations of data science, approaches for ensuring fairness, explainability, and privacy when applying data science, as well as in its applications in music informatics, web and social media mining, human resources management, computational biology, and more. He has widely published and acquired several high profile research grants in these areas, most in particular an ERC Consolidator Grant titled 'Formalizing Subjective Interestingness in Exploratory Data Mining' (FORSIED), as well as an FWO Odysseus grant titled 'Exploring Data&#58; Theoretical Foundations and Applications to Web, multimedia, and Omics Data'."
-    talktitle: "Conditional Network Embedding: Trustworthy By Design?"
-    talk: http://slideslive.com/38933095
+    name: 
+    institution: 
+    image: 
+    homepage: 
+    bio: 
+    talktitle: 
+    talk: 
