@@ -4,26 +4,45 @@ title: Overview
 permalink: /overview/
 ---
 ---
-Networks of various types, such as property graphs, linked data / semantic web / RDF data, attributed graphs, and more, are increasingly used in practice as versatile and efficient models for data as encountered in today’s data-intensive research and industries. They allow capturing not only the information about entities (using attributes or properties), but also the relational structure between them. This adds significant additional flexibility as compared to data that is formalized as a set of unrelated data points -- a data format that was dominant in the machine learning literature until quite recently.
+Graphs of various types, such as plain networks, linked/semantic web/RDF data, attributed, dynamic, interaction graphs, and possible combinations of these, are increasingly used as versatile and practical models for data encountered in today’s data-intensive research and industries. In contrast to data tables, graphs allow capturing the information about entities (using attributes or properties), as well as the relational structure between entities. 
 
-The ability to model and discover knowledge from such network data is therefore fast gaining in importance. Research is needed both into the formalization of new problem types that match well with practical use cases, as well as into the algorithmic, statistical and information theoretic aspects of such problems. The workshop also takes a particular interest in the very popular topic of network embeddings, which as intermediate representation enable learning and mining algorithms devised for non-relational data to be applied to graphs.
+The ability to discover knowledge from and make predictions about such network data has gained in importance quickly. However, both for the formalization of new problem types that match well with practical use cases, as well as the algorithmic, statistical, and information theoretic aspects of such problems require further scientific inquiry. The workshop also takes a particular interest in the very popular topic of representation learning (network embeddings), which as intermediate real-valued representation enables learning and mining algorithms devised for non-relational data to be applied to graphs. With rapid advances in this area in particular, trustworthy AI on graphs requires particular attention.
+
+The aim of this workshop, to be held in conjunction with ECML-PKDD Conference, is to be a discussion forum for the most recent advances on these topics. We will encourage both theoretical and practical contributions to stimulate interactions between participants, by separating long mature contributions and short, open for discussion, ideas.
+
 
 #### Topics of interests include
 
-**Unsupervised and representation learning**
+**Representation learning**
 - Network embedding
 - Graph compression
+- Knowledge graph embedding
+- Graph neural networks
 - Entity resolution/deduplication
 - Clustering
+
+**Trustworthy AI on Graphs**
+- Algorithmic biases
+- Algorithms and metrics for fairness
+- Explainable graph learning
+- Privacy preserving graph learning
 
 **Pattern mining**
 - Local patterns: community detection, subgraph mining
 - Graph summarization
 - Subgroup discovery on graphs
 
+**Complex Network analysis**
+- Attributed networks
+- Evolving graphs
+- Probabilistic and uncertain Networks
+	
 **Supervised learning**
 - Classification
+- Graph Kernels
 - Link prediction
+- Anomaly detection
+- Knowledge graph completion
 
 **Exploration**
 - Visualization
@@ -42,12 +61,15 @@ The ability to model and discover knowledge from such network data is therefore 
 - Social network analysis
 - Biological networks and life science data
 - Communication networks
+- User-item interaction networks in the recommendation scenario
 - Urban data, traffic networks
 
 All types of approaches are welcome, e.g., graph neural networks, traditional ML, random walk methods, Bayesian inference, information theoretical approaches, and we encourage authors to consider the breadth of graph data types (attributed, dynamic graphs, etc.).
 
 #### The workshop
-The workshop will feature:
+The workshop will feature
 - keynote speakers,
 - a few contributed talks,
-- a poster session.
+- a poster session, and
+- small-group discussions on hot topics that are aimed to bring together academia and industry or end-users in application areas.
+It will be accompanied by a half-day tutorial dedicated to machine learning and analysis of large real-world graphs with scikit-network. 

@@ -11,7 +11,7 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
   <title>Overview</title>
-  <meta name="description" content="Workshop Proposal 2021">
+  <meta name="description" content="Workshop+Tutorial Proposal 2021">
   <meta name="author" content="Bo Kang">
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
@@ -21,13 +21,13 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Overview">
-  <meta name="twitter:description" content="Workshop Proposal 2021">
+  <meta name="twitter:description" content="Workshop+Tutorial Proposal 2021">
   
   <meta name="twitter:image" content="/images/favicons/favicon-194x194.png" />
 
   <meta property="og:type" content="article">
   <meta property="og:title" content="Overview">
-  <meta property="og:description" content="Workshop Proposal 2021">
+  <meta property="og:description" content="Workshop+Tutorial Proposal 2021">
   <meta property="og:image" content="/images/favicons/favicon-194x194.png" />
 
   <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
@@ -50,7 +50,7 @@
   <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <link rel="stylesheet" href="/css/main.css?1616083359768068000">
+  <link rel="stylesheet" href="/css/main.css?1617089640541788000">
   <link rel="canonical" href="http://localhost:4000/overview/">
   <link rel="alternate" type="application/rss+xml" title="GEM: Graph Embedding and Mining" href="/feed.xml">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -72,14 +72,16 @@
           <h1 class="panel-cover__title">GEM: Graph Embedding and Mining</h1>
         </a>
         <hr class="panel-cover__divider">
-        <p class="panel-cover__description">Workshop Proposal 2021</p>
+        <p class="panel-cover__description">Workshop+Tutorial Proposal 2021</p>
         <hr class="panel-cover__divider panel-cover__divider--secondary">
 
         <div class="navigation-wrapper">
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="/overview" title="GEM: Graph Embedding and Mining Overview" class="blog-button">Overview</a></li>                                          
+              <li class="navigation__item"><a href="/overview" title="GEM: Graph Embedding and Mining Overview" class="blog-button">Overview</a></li>
+              <li class="navigation__item"><a href="/cfp" title="GEM: Graph Embedding and Mining Call for Papers" class="blog-button">Call for Papers</a></li> 
+              <li class="navigation__item"><a href="/tutorial" title="GEM: Graph Embedding and Mining Tutorial" class="blog-button">Tutorial</a></li> 
               <li class="navigation__item"><a href="/organizers" title="GEM: Graph Embedding and Mining Organizers" class="blog-button">Organizers</a></li>
               <li class="navigation__item"><a href="/archive" title="GEM: Graph Embedding and Mining Archive" class="blog-button">Archive</a></li>
               <li class="navigation__item">
@@ -111,18 +113,30 @@
 
   <section class="post">
     <hr />
-<p>Networks of various types, such as property graphs, linked data / semantic web / RDF data, attributed graphs, and more, are increasingly used in practice as versatile and efficient models for data as encountered in today’s data-intensive research and industries. They allow capturing not only the information about entities (using attributes or properties), but also the relational structure between them. This adds significant additional flexibility as compared to data that is formalized as a set of unrelated data points – a data format that was dominant in the machine learning literature until quite recently.</p>
+<p>Graphs of various types, such as plain networks, linked/semantic web/RDF data, attributed, dynamic, interaction graphs, and possible combinations of these, are increasingly used as versatile and practical models for data encountered in today’s data-intensive research and industries. In contrast to data tables, graphs allow capturing the information about entities (using attributes or properties), as well as the relational structure between entities.</p>
 
-<p>The ability to model and discover knowledge from such network data is therefore fast gaining in importance. Research is needed both into the formalization of new problem types that match well with practical use cases, as well as into the algorithmic, statistical and information theoretic aspects of such problems. The workshop also takes a particular interest in the very popular topic of network embeddings, which as intermediate representation enable learning and mining algorithms devised for non-relational data to be applied to graphs.</p>
+<p>The ability to discover knowledge from and make predictions about such network data has gained in importance quickly. However, both for the formalization of new problem types that match well with practical use cases, as well as the algorithmic, statistical, and information theoretic aspects of such problems require further scientific inquiry. The workshop also takes a particular interest in the very popular topic of representation learning (network embeddings), which as intermediate real-valued representation enables learning and mining algorithms devised for non-relational data to be applied to graphs. With rapid advances in this area in particular, trustworthy AI on graphs requires particular attention.</p>
+
+<p>The aim of this workshop, to be held in conjunction with ECML-PKDD Conference, is to be a discussion forum for the most recent advances on these topics. We will encourage both theoretical and practical contributions to stimulate interactions between participants, by separating long mature contributions and short, open for discussion, ideas.</p>
 
 <h4 id="topics-of-interests-include">Topics of interests include</h4>
 
-<p><strong>Unsupervised and representation learning</strong></p>
+<p><strong>Representation learning</strong></p>
 <ul>
   <li>Network embedding</li>
   <li>Graph compression</li>
+  <li>Knowledge graph embedding</li>
+  <li>Graph neural networks</li>
   <li>Entity resolution/deduplication</li>
   <li>Clustering</li>
+</ul>
+
+<p><strong>Trustworthy AI on Graphs</strong></p>
+<ul>
+  <li>Algorithmic biases</li>
+  <li>Algorithms and metrics for fairness</li>
+  <li>Explainable graph learning</li>
+  <li>Privacy preserving graph learning</li>
 </ul>
 
 <p><strong>Pattern mining</strong></p>
@@ -132,10 +146,20 @@
   <li>Subgroup discovery on graphs</li>
 </ul>
 
+<p><strong>Complex Network analysis</strong></p>
+<ul>
+  <li>Attributed networks</li>
+  <li>Evolving graphs</li>
+  <li>Probabilistic and uncertain Networks</li>
+</ul>
+
 <p><strong>Supervised learning</strong></p>
 <ul>
   <li>Classification</li>
+  <li>Graph Kernels</li>
   <li>Link prediction</li>
+  <li>Anomaly detection</li>
+  <li>Knowledge graph completion</li>
 </ul>
 
 <p><strong>Exploration</strong></p>
@@ -162,17 +186,20 @@
   <li>Social network analysis</li>
   <li>Biological networks and life science data</li>
   <li>Communication networks</li>
+  <li>User-item interaction networks in the recommendation scenario</li>
   <li>Urban data, traffic networks</li>
 </ul>
 
 <p>All types of approaches are welcome, e.g., graph neural networks, traditional ML, random walk methods, Bayesian inference, information theoretical approaches, and we encourage authors to consider the breadth of graph data types (attributed, dynamic graphs, etc.).</p>
 
 <h4 id="the-workshop">The workshop</h4>
-<p>The workshop will feature:</p>
+<p>The workshop will feature</p>
 <ul>
   <li>keynote speakers,</li>
   <li>a few contributed talks,</li>
-  <li>a poster session.</li>
+  <li>a poster session, and</li>
+  <li>small-group discussions on hot topics that are aimed to bring together academia and industry or end-users in application areas.
+It will be accompanied by a half-day tutorial dedicated to machine learning and analysis of large real-world graphs with scikit-network.</li>
 </ul>
 
   </section>
@@ -185,7 +212,7 @@
 </footer>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="/js/main.js?1616083359768068000"></script>
+<script type="text/javascript" src="/js/main.js?1617089640541788000"></script>
 
 
     </div>
