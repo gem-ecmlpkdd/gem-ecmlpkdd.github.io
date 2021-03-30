@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Keynote Speaker
+title: Confirmed Keynote Speakers
 permalink: /keynotes/
 ---
 ---
-<div class="container">
-{% include keynote_speaker.html data=site.data.keynotes.speakers.Tijl %}
-</div>
+- [Danai Koutra](https://web.eecs.umich.edu/~dkoutra/) Morris Wellman Asst Professor, University of Michigan
