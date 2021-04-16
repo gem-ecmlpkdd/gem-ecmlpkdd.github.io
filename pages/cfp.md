@@ -89,7 +89,7 @@ Accepted papers will be presented as a poster in the poster session and a few wi
 
 For accepted papers, at least one author must register for the conference and attend the workshop to present the work.
 
-**Submit via EasyChair:** TBA
+**Submit via EasyChair:** [https://easychair.org/conferences/?conf=gem20210](https://easychair.org/conferences/?conf=gem20210)
 
 #### Important Dates
 - **Submission:** TBA
