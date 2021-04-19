@@ -1,6 +1,6 @@
 # Site settings
 title: 'GEM: Graph Embedding and Mining'
-description: 'Workshop+Tutorial Proposal 2021'
+description: 'ECML-PKDD 2021 Workshop+Tutorial'
 url: 'http://gem-ecmlpkdd.github.io'
 baseurl: ''
 google_analytics: 'UA-140686722-1'
