@@ -83,7 +83,7 @@ Accepted papers will be presented as a poster in the poster sessions and a few w
 
 For accepted papers, at least one author must register for the conference and attend the workshop to present the work.
 
-Submit via EasyChair: https://easychair.org/conferences/?conf=gem20210
+Submit via EasyChair: <https://easychair.org/conferences/?conf=gem20210>
 
 #### Important Dates 
 - **Submission:** June 23, 2021
@@ -94,7 +94,7 @@ Submit via EasyChair: https://easychair.org/conferences/?conf=gem20210
 ### Further information and Contact
 **Organizers:** Bo Kang, Christine Largeron, Jefrey Lijffijt, Tiphaine Viard, Pascal Welke
 
-- **Website URL:** https://gem-ecmlpkdd.github.io 
-- **Submission URL:** https://easychair.org/conferences/?conf=gem20210 
-- **E-mail:** [gem.ecmlpkdd@gmail.com](gem.ecmlpkdd@gmail.com)
+- **Website URL:** <https://gem-ecmlpkdd.github.io>
+- **Submission URL:** <https://easychair.org/conferences/?conf=gem20210>
+- **E-mail:** [gem.ecmlpkdd@gmail.com](mailto:gem.ecmlpkdd@gmail.com)
 
