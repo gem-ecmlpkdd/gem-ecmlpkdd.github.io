@@ -86,8 +86,8 @@ For accepted papers, at least one author must register for the conference and at
 Submit via EasyChair: <https://easychair.org/conferences/?conf=gem20210>
 
 #### Important Dates 
-- **Submission:** June 23, 2021
-- **Notification:** July 23, 2021
+- **Submission:** ~~June 23, 2021~~ June 30, 2021
+- **Notification:** ~~July 23, 2021~~ July 30, 2021
 - **Camera-ready:** August 18, 2021
 - **Workshop date:** September 13 or 17, 2021
 
