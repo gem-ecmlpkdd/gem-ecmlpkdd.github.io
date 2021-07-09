@@ -22,3 +22,4 @@ permalink: /committee/
 - **Sandra Mitrovic**	(IDSIA)
 - **Stephan Günnemann**	(Technical University of Munich)
 - **Tijl De Bie**	(Ghent University)
+- **Till Schulz**	(University of Bonn)
