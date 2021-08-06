@@ -4,15 +4,14 @@ title: Accepted Papers
 permalink: /papers/
 ---
 ---
-## Oral Presentations
-* [__Hop-Hop Relation-aware Graph Neural Networks__]({{site.baseurl}}GEM2020_paper_10.pdf), _Li Zhang and Haiping Lu_
-* [__GraphMDL Visualizer: Interactive Visualization of Graph Patterns__]({{site.baseurl}}GEM2020_paper_7.pdf), _Francesco Bariatti, Peggy Cellier and Sebastien Ferre_
-* [__Template-Based Graph Clustering__]({{site.baseurl}}GEM2020_paper_3.pdf), _Mateus Riva, Florian Yger, Pietro Gori, Roberto Cesar and Isabelle Bloch_
-* [__Graph Neural Networks with Extreme Nodes Discrimination__]({{site.baseurl}}GEM2020_paper_4.pdf), _George Panagopoulos and Hamid Jalalzai_
-* [__A Combination of Semantic Annotation and Graph Mining for Expert Finding in Scholarly Data__]({{site.baseurl}}GEM2020_paper_8.pdf), _Stella Zevio, Guillaume Santini, Henry Soldano, Haïfa Zargayouna and Thierry Charnois_
 
-## Poster Presentations
-* [__An approach for generating random temporal semantic graphs with embedded patterns__]({{site.baseurl}}GEM2020_paper_1.pdf), _Aurélie Leborgne, Jorick Nuss, Florence Le Ber and Stella Marc-Zwecker_
-* [__Social Fluidity in Children's Face-to-Face Interaction Networks__]({{site.baseurl}}GEM2020_paper_2.pdf), _Daniela Gawehns and Matthijs van Leeuwen_
-* [__A comparative study of similarity-based and GNN-based link prediction approaches__]({{site.baseurl}}GEM2020_paper_5.pdf), _Md Kamrul Islam, Sabeur Aridhi and Malika Smail-Tabbone_
-* [__Trustworthiness-Aware Knowledge Graph Representation for Explainable Recommender Systems__]({{site.baseurl}}GEM2020_paper_9.pdf), _Yan Ge and Haiping Lu_
+* [__The Effects of Randomness on the Stability of Node Embeddings__](), _Tobias Schumacher, Martin Ritzert, Hinrikus Wolf, Florian Lemmerich, Martin Grohe and Markus Strohmaier_. (accepted for proceedings)
+* [__Graph homomorphism features: why not sample?__](), _Paul Beaujean, Florian Sikora and Florian Yger_. (accepted for proceedings)
+* [__Neural Maximum Independent Set__](), _Thomas Pontoizeau, Florian Sikora, Florian Yger and Tristan Cazenave_. (accepted for proceedings)
+* [__Fea2Fea: Exploring Structural Feature Correlations via Graph Neural Networks__](). _Jiaqing Xie and Rex Ying_, (accepted for proceedings)
+* [__Web Image Context Extraction with GraphNeural Networks and Sentence Embeddings on the DOM tree__](), _Chen Dang, Hicham Randrianarivo, Raphael Fournier-S'Niehotta and Nicolas Audebert_. (accepted for proceedings)
+* [__Towards Mining Generalized Patterns From RDF Data And A Domain Ontology__](), _Tomas Martin, Victor Fuentes, Petko Valtchev, Abdoulaye Baniré Diallo, René Lacroix, Maxime Leduc and Mounir Boukadoum_. (accepted for proceedings)
+* [__GUDIE: a flexible, user-defined method to extract subgraphs of interest from large graphs__](), _João Tiago Ascensão, Maria Inês Silva, David Aparicio, Beatriz Malveiro and Pedro Bizarro_. (accepted for presentation)
+* [__Representation Learning using Graph Neural Nets: A case-study in HMMs__](), _Rajan Kumar Soni, Karthick Seshadri and Balaraman Ravindran_. (accepted for presentation)
+* [__Vessel's Identity Graph and Analysis__](), _Alexandre Amouriq, Maryam Maslek Elayam and Cyril Ray_. (accepted for presentation)
+* [__A Study of Explainable Community-Level Features__](), _Sophie Sadler, Derek Greene and Daniel Archambault_. (accepted for presentation)
