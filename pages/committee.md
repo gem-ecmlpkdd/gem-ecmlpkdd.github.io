@@ -11,6 +11,7 @@ permalink: /committee/
 - **Di Jin**	(University of Michigan)
 - **Florian Yger**	(Université Dauphine - LAMSADE)
 - **Marc Plantevit**	(LIRIS - Université Claude Bernard Lyon 1)
+- **Mark Heimann** (Lawrence Livermore National Laboratory)
 - **Martin Atzmueller**	(Osnabrueck University)
 - **Márton Karsai**	(ENS de Lyon)
 - **Raphael Fournier**	(CNAM)
