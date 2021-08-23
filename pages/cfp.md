@@ -89,7 +89,7 @@ Submit via EasyChair: <https://easychair.org/conferences/?conf=gem20210>
 - **Submission:** ~~June 23, 2021~~ ~~June 30, 2021~~ <span style="color:red">July 08, 2021</span>
 - **Notification:** ~~July 23, 2021~~ ~~July 30, 2021~~ <span style="color:red">August 06, 2021</span>
 - **Camera-ready:** ~~August 18, 2021~~ <span style="color:red">August 20, 2021</span>
-- **Workshop date:** September 13 or 17, 2021
+- **Workshop date:** September 13, 2021
 
 ### Further information and Contact
 **Organizers:** Bo Kang, Christine Largeron, Jefrey Lijffijt, Tiphaine Viard, Pascal Welke
