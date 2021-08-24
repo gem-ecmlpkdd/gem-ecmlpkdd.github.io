@@ -4,28 +4,31 @@ title: Program
 permalink: /program/
 ---
 ---
-14:10 - 14:15 **Opening** <a href="https://youtu.be/D9U0XENsSnQ"><i class="fa fa-video-camera"></i>&nbsp;video</a>
 
-14:15 - 15:00 **Keynote**: __Conditional network embedding -- trustworthy by design?__ <a href="http://slideslive.com/38933095"><i class="fa fa-video-camera"></i>&nbsp;video</a>
 
-15:00 - 15:20 **Spotlight Talk**: [__Hop-Hop Relation-aware Graph Neural Networks__]({{site.baseurl}}/../papers/GEM2020_paper_10.pdf) <a href="http://slideslive.com/38933091"><i class="fa fa-video-camera"></i>&nbsp;video</a>
 
-15:20 - 15:40 **Spotlight Talk**: [__GraphMDL Visualizer: Interactive Visualization of Graph Patterns__]({{site.baseurl}}/../papers/GEM2020_paper_7.pdf) <a href="http://slideslive.com/38933090"><i class="fa fa-video-camera"></i>&nbsp;video</a>
+## Tutorial
 
-15:40 - 16:00 **Spotlight Talk**: [__Graph Neural Networks with Extreme Nodes Discrimination__]({{site.baseurl}}/../papers/GEM2020_paper_4.pdf) <a href="http://slideslive.com/38933094"><i class="fa fa-video-camera"></i>&nbsp;video</a>
+09:50 - 10:00 |	**Opening**
+10:00 - 11:30 |	**Introduction and core components**: data structures and their manipulation, simple tasks on graphs	
+11:30 - 11:45 |	**Coffee break**
+11:45 - 12:45 |	**Real-world use case**: analysis of the Wikipedia "vital articles" graph	
+12:45 - 13:00 |	**Concluding Remarks**
 
-16:00 - 16:20 **Break**
+## Workshop	
 
-16:20 - 16:30 **Short Presentation**: [__An approach for generating random temporal semantic graphs with embedded patterns__]({{site.baseurl}}/../papers/GEM2020_paper_1.pdf) <a href="http://slideslive.com/38933097"><i class="fa fa-video-camera"></i>&nbsp;video</a>
-
-16:30 - 16:40 **Short Presentation**: [__Social Fluidity in Children's Face-to-Face Interaction Networks__]({{site.baseurl}}/../papers/GEM2020_paper_2.pdf) <a href="http://slideslive.com/38933096"><i class="fa fa-video-camera"></i>&nbsp;video</a>
-
-16:40 - 16:50 **Short Presentation**: [__A comparative study of similarity-based and GNN-based link prediction approaches__]({{site.baseurl}}/../papers/GEM2020_paper_5.pdf) <a href="http://slideslive.com/38933098"><i class="fa fa-video-camera"></i>&nbsp;video</a>
-
-16:50 - 17:00 **Short Presentation**: [__Trustworthiness-Aware Knowledge Graph Representation for Explainable Recommender Systems__]({{site.baseurl}}/../papers/GEM2020_paper_9.pdf) <a href="http://slideslive.com/38933100"><i class="fa fa-video-camera"></i>&nbsp;video</a>
-
-17:00 - 17:20 **Spotlight Talk**: [__A Combination of Semantic Annotation and Graph Mining for Expert Finding in Scholarly Data__]({{site.baseurl}}/../papers/GEM2020_paper_8.pdf) <a href="http://slideslive.com/38933092"><i class="fa fa-video-camera"></i>&nbsp;video</a>
-
-17:20 - 17:40 **Spotlight Talk**: [__Template-Based Graph Clustering__]({{site.baseurl}}/../papers/GEM2020_paper_3.pdf) <a href="http://slideslive.com/38933093"><i class="fa fa-video-camera"></i>&nbsp;video</a>
-
-17:40 - 18:00 **Closing**
+14.30 - 14.35 |	**Opening**
+14.35 - 14.45 |	**Paper Pitch**: [Neural Maximum Independent Set](/papers/GEM_3.pdf)
+14.45 - 14.55 |	**Paper Pitch**: [Fea2Fea: Exploring Structural Feature Correlations via Graph Neural Networks](/papers/GEM_4.pdf)
+14.55 - 15.05 |	**Paper Pitch**: [Web Image Context Extraction with GraphNeural Networks and Sentence Embeddings on the DOM tree](/papers/GEM_5.pdf)
+15.05 - 15.15 |	**Paper Pitch**: [The Effects of Randomness on the Stability of Node Embeddings](/papers/GEM_1.pdf)
+15.15 - 15.25 |	**Paper Pitch**: [Graph homomorphism features: why not sample?](/papers/GEM_2.pdf)
+15.25 - 15.35 |	**Paper Pitch**: [Towards Mining Generalized Patterns From RDF Data And A Domain Ontology](/papers/GEM_6.pdf)	
+15.35 - 15.55 |	**Coffee break**
+15.55 - 16.00 |	**Poster Pitch**: [GUDIE: a flexible, user-defined method to extract subgraphs of interest from large graphs](/papers/GEM2021_paper_7.pdf)
+16.00 - 16.05 |	**Poster Pitch**: [Representation Learning using Graph Neural Nets: A case-study in HMMs](/papers/GEM2021_paper_9.pdf)
+16.05 - 16.10 |	**Poster Pitch**: [Vessel's Identity Graph and Analysis](/papers/GEM2021_paper_8.pdf)
+16.10 - 16.15 |	**Poster Pitch**: [A Study of Explainable Community-Level Features](/papers/GEM2021_paper_1.pdf)	
+16.15 - 17.15 |	**Keynote	by Danai Koutra**	
+17.15 - 18.30 |	**Interactive Poster Session**
+18.30 - 18.45 |	**Conclusion and Best Paper Award**		
