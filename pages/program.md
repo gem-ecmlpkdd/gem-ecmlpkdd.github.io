@@ -7,7 +7,7 @@ permalink: /program/
 
 
 
-## Tutorial
+## Tutorial: Hands-on with scikit-network
 
 09:50 - 10:00 |	**Opening**
 10:00 - 11:30 |	**Introduction and core components**: data structures and their manipulation, simple tasks on graphs	
