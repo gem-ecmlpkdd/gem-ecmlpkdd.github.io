@@ -10,9 +10,9 @@ permalink: /program/
 ## Tutorial: Hands-on with scikit-network
 
 09:50 - 10:00 |	**Opening**
-10:00 - 11:30 |	**Introduction and core components**: data structures and their manipulation, simple tasks on graphs	
+10:00 - 11:30 |	**Introduction and core components**: data structures and their manipulation, simple tasks on graphs: [slides](/tutorial/sknetwork.pdf) and [notebook](/tutorial/core-scikit-network.ipynb)
 11:30 - 11:45 |	**Coffee break**
-11:45 - 12:45 |	**Real-world use case**: analysis of the Wikipedia "vital articles" graph	
+11:45 - 12:45 |	**Real-world use case**: analysis of the Wikipedia "vital articles" graph: [notebook](/tutorial/wikipedia-scikit-network.ipynb)
 12:45 - 13:00 |	**Concluding Remarks**
 
 ## Workshop	
