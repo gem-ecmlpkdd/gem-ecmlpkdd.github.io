@@ -29,6 +29,6 @@ permalink: /program/
 16.00 - 16.05 |	**Poster Pitch**: [Representation Learning using Graph Neural Nets: A case-study in HMMs](/papers/GEM2021_paper_9.pdf)
 16.05 - 16.10 |	**Poster Pitch**: [Vessel's Identity Graph and Analysis](/papers/GEM2021_paper_8.pdf)
 16.10 - 16.15 |	**Poster Pitch**: [A Study of Explainable Community-Level Features](/papers/GEM2021_paper_1.pdf)	
-16.15 - 17.15 |	**Keynote	by Danai Koutra**	
+16.15 - 17.15 |	**Keynote**: Graph Representation Learning Beyond Homophily & Proximity	<br /> by **Danai Koutra**	
 17.15 - 18.30 |	**Interactive Poster Session**
 18.30 - 18.45 |	**Conclusion and Best Paper Award**		
